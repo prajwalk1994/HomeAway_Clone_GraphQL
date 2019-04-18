@@ -1,0 +1,1 @@
+exports.frontendIP = "http://localhost:3000";
